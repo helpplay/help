@@ -1,0 +1,7 @@
+x = ['Bart', 'Lisa', 'Adam']
+p = 'hello'
+for s in x:
+    z =( p , s,)
+    print(z)
+    
+  ＃如何將打印結果去除括號和引號呢？求解答。
